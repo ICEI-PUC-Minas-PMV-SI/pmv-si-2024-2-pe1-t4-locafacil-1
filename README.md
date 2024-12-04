@@ -1,16 +1,16 @@
-# TÍTULO DO PROJETO
+# LocaFácil
 
-`CURSO`
+`SISTEMAS DE INFORMAÇÃO PUC MINAS VIRTUAL`
 
-`DISCIPLINA`
+`Projeto: Aplicações para Processos de Negócios`
 
-`SEMESTRE`
+`2º SEMESTRE`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
+* Rafael Alves Faria
 * Nome completo do aluno 2
 * Nome completo do aluno 3
 * Nome completo do aluno 4
