@@ -11,7 +11,7 @@ Este projeto aborda o desenvolvimento de uma solução inovadora para o setor de
 ## Integrantes
 
 * Rafael Alves Faria
-* Nome completo do aluno 2
+* Pedro Tolentino Gontijo
 * Nome completo do aluno 3
 * Nome completo do aluno 4
 
